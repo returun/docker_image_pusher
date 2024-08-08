@@ -1,1 +1,3 @@
-elasticsearch:7.1.1
+flannel-cni-plugin:1.2.0
+docker.m.daocloud.io/kubernetesui/dashboard:v2.4.0
+flannel:0.14.0
